@@ -1,0 +1,13 @@
+header {
+  height: 60px;
+}
+header nav {
+  height: 40px;
+}
+header nav a {
+  line-height: 40px;
+  color: white;
+  padding: 0 30px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../public/css/head.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAAA;EAGI;;AACA;EACI;;AAEA;EACI;EACA;EACA%22,%22file%22:%22head.css%22%7D */
