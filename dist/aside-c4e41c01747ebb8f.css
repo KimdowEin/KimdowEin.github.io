@@ -1,0 +1,35 @@
+#main-aside-user {
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 320px;
+  box-shadow: -5px 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+#main-aside-user section.user-head {
+  margin: 20px 0;
+  text-align: center;
+}
+#main-aside-user section.user-head img {
+  height: 200px;
+  border-radius: 100px;
+}
+#main-aside-user section.user-head h2 {
+  margin-top: 10px;
+}
+#main-aside-user section.user-body p {
+  margin: 10px 0;
+}
+#main-aside-user section.user-body p span {
+  display: inline-block;
+  width: 30%;
+  height: 25px;
+}
+#main-aside-user section.user-body p .mess-item {
+  text-align: right;
+}
+#main-aside-user section.user-body p .user-mess {
+  margin: 0 5%;
+  text-align: center;
+  border-bottom: solid 1px black;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../public/css/aside.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAAA;EACI;EACA;EACA;EACA;;AACA;EACI;EACA;;AACA;EACI;EACA;;AAEJ;EACI;;AAIJ;EACI;;AACA;EACI;EACA;EACA;;AAEJ;EACI;;AAEJ;EACI;EACA;EACA%22,%22file%22:%22aside.css%22%7D */
